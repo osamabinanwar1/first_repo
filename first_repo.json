@@ -115,7 +115,7 @@
         "name": "Movierulzhd"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=prmovies.rest&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://codeberg.org/osamabinanwar1/cloudstream-extensions-samchi",
         "fileSize": 14113,
@@ -129,9 +129,9 @@
             "Movie"
         ],
         "version": 14,
-        "internalName": "YomoviesProvider",
-        "url": "https://codeberg.org/osamabinanwar1/cloudstream-extensions-samchi/src/branch/builds/YomoviesProvider.cs3",
-        "name": "YomoviesProvider"
+        "internalName": "PrmoviesProvider",
+        "url": "https://codeberg.org/osamabinanwar1/cloudstream-extensions-samchi/src/branch/builds/PrmoviesProvider.cs3",
+        "name": "PrmoviesProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=yugen.to&sz=%size%",
